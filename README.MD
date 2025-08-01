@@ -1,11 +1,12 @@
 #DIY Attiny Arduino Keychain Game Console
 
-This repo features the Schematic file and PCB Gerbers if you want to make this yourself.
-The firmware was taken from https://github.com/andyhighnumber/Attiny-Arduino-Games
+This repo features the Schematic file, Gerber files and Bill Of material. Feel free to use the files and modify them as you wish.
+
+The firmware used in the project is from: https://github.com/andyhighnumber/Attiny-Arduino-Games
 
 ### YOUTUBE VIDEO CLICK ON PICTURE
-[![MacroPad](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/P1140373.JPG?raw=true)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
-![MacroPad_Clear](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/Keyboard_ON_DESK.jpg?raw=true) 
+[![Attiny_Arcade](https://github.com/ArmourGrade/Attiny85-Arduino-Game-Console/blob/main/Images/IMG1.jpg?raw=true)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
+
 
 ##Bill of Materials
 1. SSD1306 OLED with I2C
