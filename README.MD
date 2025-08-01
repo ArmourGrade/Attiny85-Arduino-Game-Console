@@ -5,7 +5,7 @@ This repo features the Schematic file, Gerber files and Bill Of material. Feel f
 The firmware used in the project is from: https://github.com/andyhighnumber/Attiny-Arduino-Games
 
 ### YOUTUBE VIDEO CLICK ON PICTURE
-[![Attiny_Arcade](https://github.com/ArmourGrade/Attiny85-Arduino-Game-Console/blob/main/Images/IMG1.jpg?raw=true)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
+[![Attiny_Arcade](https://github.com/ArmourGrade/Attiny85-Arduino-Game-Console/blob/main/Images/IMG1.jpg?raw=true)](https://www.youtube.com/watch?v=D4EZ1D5AoRs&t=7s)
 
 
 ##Bill of Materials
