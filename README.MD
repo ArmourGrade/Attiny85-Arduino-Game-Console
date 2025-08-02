@@ -9,7 +9,7 @@ This repo features the Schematic file, Gerber files and Bill Of material. Feel f
 Please note that if you plan on using these gerber files you should flip the coin battery holder in comparisson to whats drawn on the PCB for easier replacement of the battery due to close proximity with the switch pins. (Like in the picture bellow)
 No additional changes need to be made for this, since the polarity is the same of both left and right pins.
 
-I will upload a second version where this is fixed. 
+I will upload a second version where this visual error is fixed. 
 
 The firmware used in the project is from: https://github.com/andyhighnumber/Attiny-Arduino-Games
 [![Attiny_Arcade_fix](https://github.com/ArmourGrade/Attiny85-Arduino-Game-Console/blob/main/Images/Position%20of%20the%20Battery%20holder.jpg?raw=true)]
