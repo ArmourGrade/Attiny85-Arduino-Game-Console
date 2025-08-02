@@ -7,11 +7,11 @@ This repo features the Schematic file, Gerber files and Bill Of material. Feel f
 [![Attiny_Arcade](https://github.com/ArmourGrade/Attiny85-Arduino-Game-Console/blob/main/Images/IMG1.jpg?raw=true)](https://www.youtube.com/watch?v=D4EZ1D5AoRs&t=7s)
 
 Please note that if you plan on using these gerber files you should flip the coin battery holder during assembly in comparisson to the outline drawn on the PCB for easier replacement of the battery due to close proximity with the switch pins. (Like in the picture bellow)
-No additional changes need to be made for this, since the polarity is the same of both left and right pins.
+No additional changes need to be made for this, since the polarity is the same of both left and right pins. (This can be seeb in the video)
 
 I will upload a second version where this visual error is fixed. 
 
-And before soldering the Battery holder you should put a little solder on the PAD thats represents the other polarity of the Battery. This is so that the battery will have better conntact with the Pad.
+And before soldering the Battery holder you should put a little solder on the PAD thats represents the other polarity of the Battery, as shown in the video. This is so that the battery will have better conntact with the Pad.
 
 
 
