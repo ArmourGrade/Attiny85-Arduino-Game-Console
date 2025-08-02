@@ -8,7 +8,9 @@ This repo features the Schematic file, Gerber files and Bill Of material. Feel f
 
 Please note that if you plan on using these gerber files you should flip the coin battery holder during assembly in comparisson to the outline drawn on the PCB for easier replacement of the battery due to close proximity with the switch pins. (Like in the picture bellow)
 No additional changes need to be made for this, since the polarity is the same of both left and right pins.
+
 I will upload a second version where this visual error is fixed. 
+
 And before soldering the Battery holder you should put a little solder on the PAD thats represents the other polarity of the Battery. This is so that the battery will have better conntact with the Pad.
 
 
