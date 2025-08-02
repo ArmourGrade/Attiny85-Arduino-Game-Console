@@ -1,14 +1,17 @@
-#DIY Attiny Arduino Keychain Game Console
+# DIY Attiny Arduino Keychain Game Console
 
-This repo features the Schematic file, Gerber files and Bill Of material. Feel free to use the files and modify them as you wish.
+This repo features the Schematic file, Gerber files and Bill Of material. Feel free to use the files and modify them as you wish.ž
+
+Please note that if you plan on using these gerber files you should flip the coin battery holder in comparisson to whats drawn on the PCB for easier replacement of the battery due to close proximity with the switch pins. (Like in the picture bellow)
+I will upload a second version where this is fixed. 
 
 The firmware used in the project is from: https://github.com/andyhighnumber/Attiny-Arduino-Games
-
+[![Attiny_Arcade_fix](https://github.com/ArmourGrade/Attiny85-Arduino-Game-Console/blob/main/Images/Position%20of%20the%20Battery%20holder.jpg?raw=true)]
 ### YOUTUBE VIDEO CLICK ON PICTURE
 [![Attiny_Arcade](https://github.com/ArmourGrade/Attiny85-Arduino-Game-Console/blob/main/Images/IMG1.jpg?raw=true)](https://www.youtube.com/watch?v=D4EZ1D5AoRs&t=7s)
 
 
-##Bill of Materials
+## Bill of Materials
 1. SSD1306 OLED with I2C
 2. Attiny85_20PU
 3. DIP8P socket 
